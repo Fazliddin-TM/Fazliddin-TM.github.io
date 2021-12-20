@@ -110,10 +110,11 @@ a.bottom__to__top.active{
     h1.about__heading{
         font-size: 20px;
         height: auto;
-        margin-top: -25px;
+        /* margin-top: -20px; */
        }
        .one{
-        margin-top: -30px;
+        /* margin-top: -25px; */
+        height: auto;
        }
     p.about__text{
         font-size: 9px;
@@ -122,11 +123,12 @@ a.bottom__to__top.active{
         width:100px ;
         height: 30px;
         font-size: 9px;
-        margin-top: -30px;
+        margin-top: -80px;
         /* padding: 5px 10px; */
     }
     .clone{
-        margin-top: -25px;
+        margin-bottom: 60px;
+        
         
     }
     
