@@ -147,6 +147,9 @@ li.sideNavbar{
       h3.home__text{
           font-size: 30px;
       }
+      .home__bg{
+      height: min-height;
+    }
 }
 @media only screen and (max-width: 375px){
     .home__bg{
