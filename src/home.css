@@ -135,9 +135,9 @@ li.sideNavbar{
     
 }
 @media only screen and (max-width: 425px){
-    .navbar{
+    /* .navbar{
         display: none;
-    }
+    } */
     .navigation.pxy__30{
         display: none;
     }
