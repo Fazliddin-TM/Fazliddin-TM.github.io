@@ -149,6 +149,7 @@ li.sideNavbar{
       }
       .home__bg{
         background-position: 60%;
+        min-height: auto;
     }
 }
 @media only screen and (max-width: 375px){
